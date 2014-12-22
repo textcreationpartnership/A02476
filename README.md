@@ -35,9 +35,19 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A commemoration of the most prosperous and peaceable raigne of our gratious and deere soueraigne lad
+
+1. ¶To the worshipfull, his verie louing Cowsen M. Edwarde Eliotte Esquier, the Queenes Maiesties Surueyour of all her Honours Manours, Landes and possessions within her highnes County of Essex.
+
+1. The Authours minde vpon the matter of this his litle Booke.
+
 #####Body#####
-A commemoration of the most prosperous and peaceable raigne of our gratious and deere soueraigne lad
+
+1. A Commemoration of the most prosperous and peaceable Reigne of our gratious and deere Soueraygne Lady Elizabeth, by the grace of God, of England, Fraunce and Ireland Queene &c.
+
+1. ¶The Authour most humblie to all the Queenes highnes most honourable Counsaylers.
+¶Gentle Reader, hauing this prayer folowing imparted vnto mee by a learned and worshipfull gentleman
+1. A Meditation wherin the godly English geueth thankes to God for the Queenes Maiesties prosperous gouernment hitherto, and praieth for the continuance therof to Gods glory.
+
 **Types of content**
 
   * There are 416 **verse** lines!
